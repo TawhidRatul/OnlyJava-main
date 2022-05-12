@@ -1,0 +1,14 @@
+{
+  "name": " Myself Asik Syed",
+  "Age": "27",
+  "Designation": "Software Engineer is my designation",
+  "Address": {
+    "Current address": {
+      "Area": "Basundhara",
+      "Postal code": "1200",
+      "City" : "Dhaka"
+    },
+    "Parmanent address": "Tangail",
+    "contact": "01683003405"
+  }
+}
